@@ -29,7 +29,8 @@ const Home = () => {
                 <div className="flex flex-col items-center justify-between mb-6 sm:flex-row">
                     <Link href="/">
                         <Image
-                            src="/logo.png"
+                            // src="/logo.png"
+                            src="https://cdn.prod.website-files.com/65577369ff882f1307fc2012/67004ddf712b590d6b64dd55_tree-dark-p-500.png"
                             width={50}
                             height={50}
                             className="rounded-md"
